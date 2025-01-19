@@ -1,6 +1,6 @@
 # EEG Seizure Classification - Impulse 2025
 
-There are 2 notebooks, Notebook-2 is having the final model, some visualizations and first attempt I took to train the model(which failed) is there in notebook-1
+There are 2 notebooks, Notebook-2 has the final model. Notebook-1 contains some visualizations and first attempt I took to train the model(which isn't soo good) 
 
 ## Overview
 This notebook outlines the approach for classifying EEG seizure types as part of the Impulse 2025 hackathon. The tasks included:
