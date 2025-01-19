@@ -28,9 +28,8 @@ This notebook outlines the approach for classifying EEG seizure types as part of
 
 ## Results
 - **Final Model**: Bi-directional LSTM
-- **Validation Accuracy**: XX%
-- **ROC-AUC**: XX%
-- **Balanced Accuracy**: XX%
+- **ROC-AUC**: 49.46%
+- **Balanced Accuracy**: 54.75%
 
 ## Test Predictions
 Predictions are saved in `test_outputs.csv`.
