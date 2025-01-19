@@ -1,5 +1,7 @@
 # EEG Seizure Classification - Impulse 2025
 
+There are 2 notebooks, Notebook-2 is having the final model, some visualizations and first attempt I took to train the model(which failed) is there in notebook-1
+
 ## Overview
 This notebook outlines the approach for classifying EEG seizure types as part of the Impulse 2025 hackathon. The tasks included:
 1. Preprocessing and denoising EEG signals.
@@ -32,4 +34,6 @@ This notebook outlines the approach for classifying EEG seizure types as part of
 
 ## Test Predictions
 Predictions are saved in `test_outputs.csv`.
+
+
 
